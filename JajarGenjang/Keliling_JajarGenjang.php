@@ -38,7 +38,7 @@
         $sm = $_POST['sm'];
 
         $kelilingjajargenjang =  2 * ($alas1 + $sm);
-        echo 'Hasil perhitungan Luas Jajar Genjang';
+        echo 'Hasil perhitungan Keliling Jajar Genjang';
         echo '<br> Diketahui :';
         echo '<br> Alas = '.$alas1;
         echo '<br> Sisi Miring = '.$sm;
