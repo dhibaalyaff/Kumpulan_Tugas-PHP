@@ -8,6 +8,7 @@ $domisili = ["Aceh","Jakarta","Bandung","Bekasi","Malang","Surabaya","Lainnya"];
 <!DOCTYPE html>
 <html>
 <head>
+<title>FORM</title>
     <!-- CSS -->
     <style>
     * {
